@@ -17,6 +17,8 @@
     </div>
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb773962c7eecac486c7e332b9822c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f537647464132574639495030576a6d7a76452f67697068792e676966">
+
 ![GitHub followers](https://img.shields.io/github/followers/ArtaAbedi?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github)
  <img src="https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github" alt="" />
 
@@ -25,7 +27,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb773962c7eecac486c7e332b9822c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f537647464132574639495030576a6d7a76452f67697068792e676966">
 
 <!-----About Me --------->
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
