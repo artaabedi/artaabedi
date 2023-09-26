@@ -13,7 +13,7 @@
 <br>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=eb008e&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Software+Engineer+Student;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com/?color=eb008e&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer; Computer+Software+Engineer+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
@@ -29,7 +29,8 @@
 <br>
 
 <!-----About Me --------->
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b>
 
 <a href="Hey@artaabedi.com">
       <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
