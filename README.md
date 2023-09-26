@@ -205,11 +205,11 @@
   <br/>
         <img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/TUF%20F15-83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TUF%20Z390-Prime83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%208700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201080TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">  
