@@ -202,7 +202,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- <h2 align="left"> 💻 Workspace:</h2><br/>
+ <h2 align="left"> Workspace🦾⚙️ :</h2><br/>
     <p align='center'>
   <br/>
         <img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
