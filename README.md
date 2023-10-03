@@ -235,7 +235,7 @@
 <tr border="none">
 <td width="50%" align="center">
  
-  https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical
+  <img  aligen="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/> <br></br>
  
   <img  align="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
   <br></br>
