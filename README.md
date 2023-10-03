@@ -235,13 +235,15 @@
 <tr border="none">
 <td width="50%" align="center">
  
-  <img  aligen="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/> <br></br>
  
-  <img  align="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
-  <br></br>
+ 
+ 
+  
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=artaabedi&theme=midnight-purple&hide_border=false" /> 
 </td>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -303,4 +305,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
+ <h3 align="center"> Show some ❤️‍🔥 by starring some of the repositories! </h3>
