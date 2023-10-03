@@ -13,7 +13,7 @@
 <br>
 
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%FF1493&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Front-End+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a>
     </div>        
     
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
