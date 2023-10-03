@@ -13,7 +13,7 @@
 <br>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=eb008e&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Software+Engineer+Student;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com/?color=eb008e&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;+Computer+Software+Engineer+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
