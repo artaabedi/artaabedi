@@ -234,7 +234,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+  https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical
   <img  align="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=artaabedi&theme=midnight-purple&hide_border=false" /> 
