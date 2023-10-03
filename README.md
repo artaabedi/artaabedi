@@ -256,10 +256,10 @@
 
 <p  align="center">
  
+## Fun {🐍,🦜,Random Joke}
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">  
 
-## Here are some 🦜Parrots😂:
 
 
 <div>
@@ -290,7 +290,7 @@
    
 </div>
 
-### 😂 Here is a random joke that'll make you laugh!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
