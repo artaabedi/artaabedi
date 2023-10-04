@@ -9,7 +9,7 @@
 
 
 <div align=center>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Front-End+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a>
     </div>        
       
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
@@ -223,7 +223,8 @@
  ## GitHub Stats 📊📉
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArtaAbedi&theme=midnight-purple)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=ArtaAbedi&theme=midnight-purple"/>
+<td width="50%" align="center">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
@@ -242,8 +243,10 @@
 
 
 <p  align="center">
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>             
-<br>
+
+ <br>
 <p  align="center">
 
  
