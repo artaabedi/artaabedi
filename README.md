@@ -223,13 +223,11 @@
  ## GitHub Stats 📊📉
   
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" /> 
-</td>
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical)
 
 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtaAbedi&theme=midnight-purple&hide_border=false" /> 
 
 
 <p  align="center">
