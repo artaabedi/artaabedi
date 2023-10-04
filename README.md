@@ -224,7 +224,7 @@
   
 
 <img src="https://streak-stats.demolab.com/?user=ArtaAbedi&theme=midnight-purple"/>
-<td width="50%" align="center">
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
@@ -238,7 +238,7 @@
 </table>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArtaAbedi&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="ArtaAbedi" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=ArtaAbedi&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="ArtaAbedi" />
 
 
 
