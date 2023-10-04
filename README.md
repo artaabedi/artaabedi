@@ -29,7 +29,8 @@
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb773962c7eecac486c7e332b9822c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f537647464132574639495030576a6d7a76452f67697068792e676966">
 
 <img align="left" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-  
+
+
 <a href="Hey@artaabedi.com">
       <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
 
