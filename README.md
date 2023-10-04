@@ -224,8 +224,7 @@
   
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=artaabedi&theme=midnight-purple&hide_border=false" /> 
-</td>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
 
 <td width="50%" align="center">
 
