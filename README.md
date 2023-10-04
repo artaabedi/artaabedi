@@ -31,8 +31,10 @@
 <img align="left" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
+
+
 <a href="Hey@artaabedi.com">
-      <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
+<img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
 
 ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com/)
  
