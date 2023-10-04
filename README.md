@@ -217,7 +217,7 @@
  
  
  
- ## GitHub Stats📊📉
+ ## GitHub Stats 📊📉
   
   
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=artaabedi&theme=midnight-purple&hide_border=false" /> 
@@ -243,7 +243,13 @@
  
 ## Games 🕹🐍
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">  
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" 
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## Here are some Parrots  🦜😂
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -273,12 +279,19 @@
    
 </div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
+## Random Joke 🤪😹
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
+  
 
  <br>
 <p align="center"">
