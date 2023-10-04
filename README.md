@@ -223,12 +223,11 @@
  ## GitHub Stats 📊📉
   
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArtaAbedi&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=artaabedi&show_icons=true&theme=radical"/>
 <td width="50%" align="center">
 
  
