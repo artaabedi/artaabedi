@@ -8,10 +8,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
 <div align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Front-End+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a>
     </div>        
