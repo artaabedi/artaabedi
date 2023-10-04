@@ -223,7 +223,8 @@
  ## GitHub Stats 📊📉
   
 
-<img src="https://streak-stats.demolab.com/?user=ArtaAbedi&theme=midnight-purple"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <br></br
 
 
 
