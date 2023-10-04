@@ -198,7 +198,6 @@
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
 
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -219,10 +218,8 @@
 <br>
 
  
- 
  ## GitHub Stats 📊📉
   
-
 <img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
 <br></br>
 
@@ -230,13 +227,11 @@
   <br></br>
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <br></b>
   
-  </td>
-</tr>
-</table>
-
-<img align="center" src="h://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
-
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
+   <br></b>
+   
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -295,5 +290,10 @@
 <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+
+
+
+
+
 
 
