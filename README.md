@@ -170,7 +170,7 @@
 <a href="https://steamcommunity.com/id/ArtaAbedi/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
-<a href="https://epicgames.com/ArtaAbedi">
+<a href="https://store.epicgames.com/u/218bbf1bd48941559d1c87841b75fb7f">
     <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
 </a>
 
