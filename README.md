@@ -225,9 +225,9 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
 
- <a href="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple"></a>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple)](https://git.io/streak-stats)
 
-<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
