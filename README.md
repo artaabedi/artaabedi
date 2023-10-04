@@ -52,6 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 ### Donate 🤑💸
 
 <a href="https://link.trustwallet.com/send?coin=195&address=THRSF7dHC4WWnBNxQi61QcLT9HiTmyHSHp&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t">
@@ -70,6 +71,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
 
 ### Social Media's 🌐💡
 <br>
@@ -165,6 +167,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 ### Game Luncher's 🎮👾
 
 <a href="https://steamcommunity.com/id/ArtaAbedi/">
@@ -235,6 +238,7 @@
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
   
 ## Game 🕹🐍
 
@@ -243,6 +247,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
 
 ## Here are some Parrots  🦜😂
 
@@ -278,6 +283,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 ## Random Joke 🤪😹
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -286,14 +292,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
  <br>
 <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
-
-
-
-
-
-
