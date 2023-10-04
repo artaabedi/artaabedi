@@ -74,7 +74,7 @@
 ### Social Media's 🌐💡
 <br>
 
-<a href="stackoverflow.com/users/22366540/arta-abedi">
+<a href="https://stackoverflow.com/users/22366540/Arta-Abedi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
@@ -86,11 +86,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://tiktok.com/ArtaAbedi1">
+<a href="tiktok.com/@ArtaAbedi1">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-<a href="https://t.me/ArtaAbedi/">
+<a href="https://t.me/ArtaDev/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -98,11 +98,11 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://reddit.com/ArtaAbedi">
+<a href="https://reddit.com/u/artaabedi/s/PrTuxMFxa1">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
-<a href="https://pintrest.com/ArtaAbedi">
+<a href="https://pin.it/1uMrhrb">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" />
 </a>
 
@@ -134,7 +134,7 @@
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
 </a>
 
-<a href="https://profiles.wordpress.org/artaabedi/">
+<a href="https://profiles.wordpress.org/ArtaAbedi/">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
 
@@ -142,11 +142,11 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@artaabedi">
+<a href="https://www.youtube.com/@ArtaAbedi">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://www.twitch.tv/artaabedi">
+<a href="https://www.twitch.tv/ArtaAbedi">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
@@ -167,7 +167,7 @@
 
 ### Game Luncher's 🎮👾
 
-<a href="https://steamcommunity.com/id/artaabedi/">
+<a href="https://steamcommunity.com/id/ArtaAbedi/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 <a href="https://epicgames.com/ArtaAbedi">
