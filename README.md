@@ -14,18 +14,7 @@
       
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
-<p align="center">
-  
-  <a href="https://github.com/ArtaAbedi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArtaAbedi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    
-  <a href="https://github.com/ArtaAbedi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ArtaAbedi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    
-  <a href="https://github.com/ArtaAbedi/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-
-</p>
+  ![](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
