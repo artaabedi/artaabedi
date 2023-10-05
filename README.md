@@ -12,15 +12,16 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
     </div>        
 
+
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)
+<div align=center>
+ 
+![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile Visitor](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
+      </div>
 
-
-![GitHub Porfile Visitor](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
-
-
+      
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -273,6 +274,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
    
 </div>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
