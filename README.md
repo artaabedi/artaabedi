@@ -225,13 +225,23 @@
  
  ## GitHub Stats 📊📉
   
+
+
 <img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+
+
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
 
+
+
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+
   
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
+
+
 
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night" />
  
