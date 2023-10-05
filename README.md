@@ -17,7 +17,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ArtaAbedi?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github)
  <img src="https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github" alt="" />
 
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -32,7 +31,7 @@
  
 <!-----About Me --------->
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> 
 
 
 <a href="Hey@artaabedi.com">
@@ -52,7 +51,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-
 ### Donate 🤑💸
 
 <a href="https://link.trustwallet.com/send?coin=195&address=THRSF7dHC4WWnBNxQi61QcLT9HiTmyHSHp&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t">
@@ -71,7 +69,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
 ### Social Media's 🌐💡
 <br>
@@ -157,6 +154,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 ### Playlist 🎶🎧
 
 <a href="https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA&nd=1">
@@ -185,8 +183,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
-
 
 ### Skills 👨‍💻🧠
 
@@ -223,25 +219,18 @@
 <br>
 
 
- 
  ## GitHub Stats 📊📉
-  
-
 
 <img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
-
 
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
 
 
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
 
   
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
-
 
 
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night" />
@@ -304,7 +293,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
  <br>
 <p align="center"">
