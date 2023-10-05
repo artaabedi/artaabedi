@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋🏼,I'm Arta Abedi👽</h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+<h1 align="center"> Hi👋🏼,I'm Arta Abedi👽</h1>
  <!----Tag line------>
 
 <p  align="center">
@@ -32,7 +32,7 @@
  
 <!-----About Me --------->
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
 <a href="Hey@artaabedi.com">
