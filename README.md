@@ -7,6 +7,9 @@
  
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%F0%9F%91%BBArta;Web%F0%9F%A4%96Dev;%F0%9F%98%B5%E2%80%8D%F0%9F%92%ABDesigner;Analyst%F0%9F%A9%BB" alt="Typing SVG" /></a>
+<p align="center">
 
 <div align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -14,24 +17,6 @@
       
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
-<p align="center">
- 
-  <a href="https://www.youtube.com/c/ArtaAbedi">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-
- <a href="https://www.youtube.com/c/ArtaAbedi">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  
-  <a href="https://github.com/ArtaAbedi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArtaAbedi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- 
-  <a href="https://github.com/ArtaAbedi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-  <a href="https://github.com/ArtaAbedi/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-
-</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
