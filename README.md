@@ -10,6 +10,7 @@
 
 <div align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=80">
     </div>        
       
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
