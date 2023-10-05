@@ -29,14 +29,7 @@
 <a href="Hey@artaabedi.com">
 <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
  
-![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com/)
- ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- 
- ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)
- 
-![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]() 
-
-![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
+![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com/)![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![]()![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]()![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
 
  <!--------------- About me end ---------------->
  
@@ -172,12 +165,7 @@
 
 ### Skills 👨‍💻🧠
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 
 <p  align="center">
@@ -185,11 +173,8 @@
 <br>
 
  ### Workspace 🦾⚙️ 
- <br/>
-    <p align='center'>
-  <br/>   
-![Windows11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639")![Ubuntu](https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white)
-   </p>
+ 
+![Windows11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)![Ubuntu](https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
