@@ -12,15 +12,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
     </div>        
 
-
-<p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
-
-
 <div align=center>
  
 ![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
       </div>
-
       
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -42,7 +37,9 @@
 ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]() 
 
 ![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
+
  <!--------------- About me end ---------------->
+ 
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb773962c7eecac486c7e332b9822c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f537647464132574639495030576a6d7a76452f67697068792e676966">
 
 <p  align="center">
@@ -69,7 +66,6 @@
 <br>
 
 ### Social Media's 🌐💡
-<br>
 
 <a href="https://stackoverflow.com/users/22366540/Arta-Abedi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
@@ -92,7 +88,7 @@
 </a>
 
 <a href="https://x.com/ArtaAbedi/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://reddit.com/u/artaabedi/s/PrTuxMFxa1">
@@ -112,7 +108,7 @@
 </a>
 
 <a href="https://discord.gg/GMjNtBy9qc">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a  href=https://dribbble.com/ArtaAbedi>
@@ -140,7 +136,7 @@
 </a>
 
 <a href="https://www.youtube.com/@ArtaAbedi">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://www.twitch.tv/ArtaAbedi">
@@ -167,6 +163,7 @@
 <a href="https://steamcommunity.com/id/ArtaAbedi/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
+
 <a href="https://store.epicgames.com/u/218bbf1bd48941559d1c87841b75fb7f">
     <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
 </a>
@@ -189,7 +186,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-
 ### My Devices Os 💻📱
 
  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
@@ -200,9 +196,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- <h2 align="left"> Workspace 🦾⚙️ </h2><br/>
+ ### Workspace 🦾⚙️ 
+ <br/>
     <p align='center'>
   <br/>
+  
+     
 <img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/TUFGaming%20Z390Prime-83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
@@ -211,6 +210,7 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201080TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -272,14 +272,11 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-   
 </div>
-
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
 ## Random Joke 🤪😹
 
@@ -288,7 +285,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
  <br>
 <p align="center"">
