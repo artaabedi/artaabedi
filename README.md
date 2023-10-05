@@ -18,10 +18,13 @@
 <br>
 
  # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> 
+
+![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![]()
+
+ ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]()
  
- ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![]()![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)
- 
- ![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]()
+ ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)
+ [![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)]()
  
  ![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb773962c7eecac486c7e332b9822c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f537647464132574639495030576a6d7a76452f67697068792e676966">
@@ -32,7 +35,7 @@
  # Contact with me 📞👦🏻
 
  ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://wa.me/989012224940)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989012224940)
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
