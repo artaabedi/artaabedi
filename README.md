@@ -11,10 +11,15 @@
 <div align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Web+Developer+;Ui%2FUx+Designer+;Open+Source+Enthusiast" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
     </div>        
-      
+
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
-  ![](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
+
+![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)
+
+
+![GitHub Porfile Visitor](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -23,6 +28,7 @@
 <!-----About Me --------->
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> 
+
 
 <a href="Hey@artaabedi.com">
 <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=About&logoColor=white" />
@@ -182,6 +188,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+
 ### My Devices Os 💻📱
 
  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
@@ -195,7 +202,7 @@
  <h2 align="left"> Workspace 🦾⚙️ </h2><br/>
     <p align='center'>
   <br/>
-        <img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/TUFGaming%20Z390Prime-83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
  
@@ -215,7 +222,7 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
 
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
