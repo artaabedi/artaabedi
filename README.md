@@ -189,9 +189,7 @@
     <p align='center'>
   <br/>   
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![Windows11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639")
    
 ![Motherboard](https://img.shields.io/badge/TUFGaming%20Z390Prime-83B81A?style=for-the-badge&logo=Asus&logoColor=white)![Cpu](https://img.shields.io/badge/intel-core%20i7%208700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)![GPU](https://img.shields.io/badge/nvidia-gtx%201080TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 </p>
