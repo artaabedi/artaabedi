@@ -14,16 +14,8 @@
       
 <p align="center"><a href="https://ArtaAbedi.github.io">Portfolio↗️</a></p>
 
-
-
 <p align="center">
- 
-  <a href="https://www.youtube.com/@ArtaAbedi">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-    
-  <a href="https://www.youtube.com/@ArtaAbedi">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-    
+  
   <a href="https://github.com/ArtaAbedi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArtaAbedi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     
@@ -164,7 +156,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-
 ### Playlist 🎶🎧
 
 <a href="https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA&nd=1">
@@ -174,7 +165,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
 ### Game Luncher's 🎮👾
 
@@ -228,7 +218,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-
  ## GitHub Stats 📊📉
 
 <img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
@@ -249,7 +238,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-  
 ## Game 🕹🐍
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
@@ -259,7 +247,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
 ## Here are some Parrots  🦜😂
 
