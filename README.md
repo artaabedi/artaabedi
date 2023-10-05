@@ -18,7 +18,7 @@
 
 <div align=center>
  
-![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile Visitor](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&color=blueviolet)
+![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
       </div>
 
       
