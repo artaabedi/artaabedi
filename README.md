@@ -33,7 +33,7 @@
  
  # Contact with me 📞👦🏻
 
- ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)![](https://wa.me/989012224940)![]()
+ ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)[![WB](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://was.me/989012224940)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
