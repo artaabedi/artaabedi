@@ -87,7 +87,9 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a><a href="https://threads.net/@ArtaAbedi1">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)"/>
-</a><p  align="center">
+ </a><a href="https://stackexchange.com/users/29195292/arta-abedi">
+    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange"/>
+ </a><p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
