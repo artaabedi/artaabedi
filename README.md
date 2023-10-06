@@ -32,22 +32,13 @@
 <br>
  
  # Contact with me 📞👦🏻
-
  ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)[![WB](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989012224940)
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
  
 # Donate 🤑💸
-
-<a href="https://link.trustwallet.com/send?coin=195&address=THRSF7dHC4WWnBNxQi61QcLT9HiTmyHSHp&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t">
- <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
- </a><a href="https://link.trustwallet.com/send?coin=60&address=0x39F69fc5bF49FD23F9a6BCb08579ed037530A204">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
- <a/><a href="https://link.trustwallet.com/send?coin=0&address=bc1qpq5x8lxll76havqd3lh6ype0g08nv8ncz2hqrf">
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-</a>
+[![Teather-TRC20](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=THRSF7dHC4WWnBNxQi61QcLT9HiTmyHSHp&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://link.trustwallet.com/send?coin=0&address=bc1qpq5x8lxll76havqd3lh6ype0g08nv8ncz2hqrf)
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -97,7 +88,6 @@
 <br>
 
 # Playlist 🎶🎧
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA&nd=1)[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ArtaAbedi)
 <p  align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
