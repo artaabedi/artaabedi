@@ -83,7 +83,10 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)"/>
  </a><a href="tiktok.com/@ArtaAbedi1">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
- </a><p  align="center">
+ </a>
+ 
+ [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/artaabedi)
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
