@@ -17,9 +17,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture><b>About Me</b> 
+# <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![]()
+
 
  ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)![]()
  
