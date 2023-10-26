@@ -9,7 +9,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F70077&center=true&width=435&lines=Technology+Lover+;Interested+in+learning+and+teaching+;Open+Source+Enthusiast" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></div> <div align=center>
   
 ![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
-</div><p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      <br>
+</div><p  align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      <br>
 
  # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
  
@@ -58,9 +59,13 @@ src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb7739
 # GitHub Stats 📊📉
 
 <img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
+
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night" /><p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
 
 # Game 🕹🐍
@@ -101,4 +106,5 @@ src="https://camo.githubusercontent.com/8bd564a1c38bbb165ddd6d656acff33371fb7739
  # Random Joke 🤪😹
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </p><p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
