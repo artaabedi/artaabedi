@@ -99,7 +99,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/album/7K8TeWAFHItK2pPkFdug5c?si=zi9_oglgRteW7L5kTr2_-A&context=spotify%3Aalbum%3A7K8TeWAFHItK2pPkFdug5c)
 
 
 
