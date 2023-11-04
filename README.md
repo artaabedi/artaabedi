@@ -87,7 +87,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
- # Playlist 🎶🎧
+ # Playlist 🎼🎶
 
 
 
@@ -95,7 +95,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
- # 🎵 Now playing
+ #  Now playing 🎧🎵
 
 
 
@@ -180,6 +180,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
+
 
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
