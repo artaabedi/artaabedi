@@ -219,7 +219,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-[![An image of @ArtaAbedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ArtaAbedi)](https://holopin.io/@ArtaAbedi)
+[![An image of @artaabedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artaabedi)](https://holopin.io/@artaabedi)
 
 
 
