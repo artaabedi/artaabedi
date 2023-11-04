@@ -163,6 +163,18 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
+ # 📋 Badges
+
+
+
+[![An image of @artaabedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artaabedi)](https://holopin.io/@artaabedi)
+
+
+
+<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                     <br>
+
+
+
 # Game 🕹🐍
 
 
