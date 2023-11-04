@@ -163,7 +163,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
- # 📋 Badges
+ #  Badges 🧧🔖
 
 
 
