@@ -99,7 +99,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-[![Spotify](https://dev.nowplayi.ng/playing.php)](https://open.spotify.com/album/7K8TeWAFHItK2pPkFdug5c?si=zi9_oglgRteW7L5kTr2_-A&context=spotify%3Aalbum%3A7K8TeWAFHItK2pPkFdug5c)
+[![Spotify]()](https://dev.nowplayi.ng/playing.php)
 
 
 
