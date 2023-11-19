@@ -1,6 +1,7 @@
 ## <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" > I'm [ARTA](https://ArtaAbedi.github.io)</h1>
 
 
+
 <img
   width="100%"
   alt="Rainbow"
@@ -12,9 +13,11 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
 
 
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%F0%9F%91%BBArta;Web%F0%9F%A4%96Dev;%F0%9F%98%B5%E2%80%8D%F0%9F%92%ABDesigner;Analyst%F0%9F%A9%BB" alt="Typing SVG" /></a>
 <p align=👋🏽"center">
+
 
  
 <div align=center>
@@ -38,8 +41,10 @@
  
 ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)
 
+
  
 ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![Develop](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)
+
 
  
 ![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
@@ -57,6 +62,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)[![WB](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989012224940)
+
 
 
 
@@ -101,10 +107,6 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-
-
-
-
 <p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
 
 
@@ -114,6 +116,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ArtaAbedi/)[![Epicgames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/u/218bbf1bd48941559d1c87841b75fb7f)
+
 
 
 
@@ -153,18 +156,30 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
  
   <!--- stats (start) -->
 
+
+
 [![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
-<img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" /> <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" 
+
+
+
+<img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+
+
+
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" 
 src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false"/> 
+
+
+
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"/>
 
 
 
 <p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
-
-
-
 
 
 
@@ -233,7 +248,9 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-<p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
+<p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+
 
 <img
   width="100%"
