@@ -195,14 +195,26 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" /> 
+  <img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" 
+      weight=300
+    height =165/>
+
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" 
+src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false"
+    weight=300
+    height=163/> 
+  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"
+    weight=300
+    height=163/>
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night" 
+    weight=300
+    height =163/>
   
   </td>
 </tr>
@@ -210,25 +222,6 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night" />
-
-
-
-<img
-  width="100%"
-  alt="Rainbow"
-  src="Image/Rainbow.gif"
-/>
-
-
-
- #  Badges 🧧🔖
-
-
-
-[![An image of @artaabedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artaabedi)](https://holopin.io/@artaabedi)
-
 
 
 <img
