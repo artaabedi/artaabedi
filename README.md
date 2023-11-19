@@ -318,7 +318,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 />
 
 
-<p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </p><p  align="center"><img
+<p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </p>
+
+  <img
   width="100%"
   alt="Rainbow"
   src="Image/Rainbow.gif"
