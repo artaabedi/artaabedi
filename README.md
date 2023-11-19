@@ -99,7 +99,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-[![Spotify]()](https://dev.nowplayi.ng/playing.php)
+
 
 
 
@@ -155,12 +155,23 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <td width="50%" align="center">
 
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" /> 
+</td>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+<td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"/>
+  
+  </td>
+</tr>
+</table>
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
 
