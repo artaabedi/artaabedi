@@ -124,13 +124,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-
-<img
+  <img
   width="100%"
   alt="Rainbow"
   src="Image/Rainbow.gif"
 />
-
 
 
  # Game Luncher's 🎮👾
