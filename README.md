@@ -27,6 +27,9 @@
 
 
 
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <!-----About Me --------->
  
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
@@ -131,17 +134,16 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <td width="50%" align="center">
 
   
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=artaabedi&theme=tokyo-night"/>
+[![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
 <img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" /> <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" 
 src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=false"/> 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
 
-<p  align="center">
+  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
+
 # Game 🕹🐍
 
 
@@ -151,6 +153,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
