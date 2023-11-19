@@ -2,8 +2,11 @@
 
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                     <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -25,8 +28,11 @@
 
 
 
-</div><p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -46,7 +52,11 @@
 
 <img align="right" alt="Coding" width="500"
 src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif">
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
  
@@ -58,7 +68,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
  
@@ -70,7 +84,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -82,8 +100,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -103,7 +124,12 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -115,7 +141,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -127,7 +157,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -139,7 +173,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -179,7 +217,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -191,7 +233,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                     <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -207,7 +253,12 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                     <br>
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
@@ -256,7 +307,11 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> <br>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Image/Rainbow.gif"
+/>
 
 
 
