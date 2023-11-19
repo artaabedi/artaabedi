@@ -207,16 +207,17 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<img src="https://github.com/KarthikNedunchezhiyan/google-chrome-dino/blob/main/www/assets/chrome-dino.gif"/>
 
 
 
-<p  align="center">
-<img src="https://github.com/Xgames123/ChromeDinoTractor/blob/main/Assets/Demo.gif">             
+
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
 
-  
+    
  # Here are some Parrots  🦜😂
 
 
