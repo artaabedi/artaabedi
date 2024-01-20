@@ -52,9 +52,10 @@
 
 <img align="right" alt="Coding" width="500"
 src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif">
-<p  align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          <br>
 
 
+</div><p  align="center">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
  
  # Contact with me 📞👦🏻
 
@@ -266,4 +267,3 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
   alt="Rainbow"
   src="Image/Rainbow.gif"
 />
-
