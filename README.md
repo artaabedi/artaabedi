@@ -194,7 +194,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
+
 
 
 
