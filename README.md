@@ -34,6 +34,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
 
+
  # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
  
@@ -54,15 +55,17 @@
 src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif">
 
 
+
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
+
+
  
  # Contact with me 📞👦🏻
 
 
 
 ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://artaabedi.com)[![WB](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989012224940)
-
 
 
 
@@ -122,7 +125,6 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
@@ -168,6 +170,10 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
+<a href="https://wakatime.com/@Abedi"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtaAbedi&layout=compact&theme=react&langs_count=6
+
+
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
 
 
@@ -195,6 +201,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
