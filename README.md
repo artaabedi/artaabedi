@@ -170,8 +170,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-### Waketime
-[![davidgao7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidgao7)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@abedi"><img height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=arazzi&layout=compact&theme=codeSTACKr&langs_count=5" /></a>
 
 
 
