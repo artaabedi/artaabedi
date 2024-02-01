@@ -26,7 +26,7 @@
 
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
+![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=forl-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
 
 
 
@@ -170,7 +170,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<a href="https://wakatime.com/@abedi"><img height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=arazzi&layout=compact&theme=codeSTACKr&langs_count=5" /></a>
+<a href="https://wakatime.com/@abedi"><img height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=arazzi&layout=compact&theme=vision-friendly-dark&langs_count=5" /></a>
 
 
 
