@@ -170,7 +170,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<a href="https://wakatime.com/@abedi"><img height="300" weight="1000" src="https://github-readme-stats.vercel.app/api/wakatime?username=arazzi&layout=compact&theme=vision-friendly-dark&langs_count=5" /></a>
+<a href="https://wakatime.com/@abedi"><img height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=arazzi&layout=compact&theme=vision-friendly-dark&langs_count=5" /></a>
 
 
 
