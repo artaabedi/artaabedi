@@ -112,8 +112,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-</div><p  align="center">
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pbht2yt12y811c4iyoa9m1zfa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&b">
+</p>
 
 
 
