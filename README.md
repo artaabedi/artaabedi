@@ -1,5 +1,5 @@
-## <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" > , I'm [ARTA](https://ArtaAbedi.github.io) 🖖🏽👽</h1>
-
+## <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" > , I'm [ARTA](https://ArtaAbedi.github.io)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="90" > </h1>
+¹
 
 
 <img
@@ -14,7 +14,7 @@
 
 
 
-<p align="center">
+<p align="center">q
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%F0%9F%91%BBArta;Web%F0%9F%A4%96Dev;%F0%9F%98%B5%E2%80%8D%F0%9F%92%ABDesigner;Analyst%F0%9F%A9%BB" alt="Typing SVG" /></a>
 <p align=👋🏽"center">
 
