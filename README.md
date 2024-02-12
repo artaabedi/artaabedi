@@ -118,6 +118,12 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
+<p align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pbht2yt12y811c4iyoa9m1zfa&count=5">
+</p>
+
+
+
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
