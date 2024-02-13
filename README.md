@@ -119,7 +119,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/884500561158869032)](https://discord.com/users/884500561158869032)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/884500561158869032?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/884500561158869032)
 
 
 
