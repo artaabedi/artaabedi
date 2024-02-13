@@ -113,7 +113,12 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA&nd=1)[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ArtaAbedi)
 
 
+
+</div><p  align="center">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 </details>
+
+  
  <details><summary><h3>Now playing 🎧🎵</h3></summary>
 
 
@@ -123,7 +128,12 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </p>
 
 
+
+</div><p  align="center">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
+
  </details>
+ 
 <details><summary><h3>Recently Played ▶️⏸️</h3></summary>
 
 
