@@ -368,7 +368,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 <img
   width="100%"
   alt="Rainbow"
-  src="Image/Rainbow.gif"
+  src="Image/line-neon.gif"
 />
 
 
