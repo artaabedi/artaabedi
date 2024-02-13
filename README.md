@@ -137,9 +137,7 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
-<p align="left">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pbht2yt12y811c4iyoa9m1zfa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&b">
-</p>
+[![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa)
 
 
 
