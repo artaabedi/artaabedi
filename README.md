@@ -26,6 +26,8 @@
 
 
 
+ <details><summary><h3>View Counter 🔢👁</h3></summary>
+
 ![Wakatime](https://wakatime.com/badge/user/018d1ed7-10c5-4198-8a83-23a6807be115.svg?style=for-the-badge&color=00B8B5)![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
 
 
@@ -33,9 +35,10 @@
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
 
- # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+ <details><summary><h3><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b></h3></summary>
 
  
  
@@ -59,9 +62,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
-
+</details>
  
- # Contact with me 📞👦🏻
+ <details><summary><h3>Contact with me 📞👦🏻</h3></summary>
 
 
 
@@ -73,8 +76,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
 
+ </details>
  
- # Donate 🤑💸
+ <details><summary><h3>Donate 🤑💸</h3></summary>
 
 
 
@@ -86,8 +90,10 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
 
+</details>
 
- ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
+
+ <details><summary><h3><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3></summary>
 
 
  
@@ -98,17 +104,17 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
- # Playlist 🎼🎶
+ <details><summary><h3>Playlist 🎼🎶</h3></summary>
 
 
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA&nd=1)[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ArtaAbedi)
 
 
-
- #  Now playing 🎧🎵
+</details>
+ <details><summary><h3>Now playing 🎧🎵</h3></summary>
 
 
 
@@ -117,8 +123,8 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </p>
 
 
- 
-#  Recently Played ▶️⏸️
+ </details>
+<details><summary><h3>Recently Played ▶️⏸️</h3></summary>
 
 
 
@@ -132,8 +138,8 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
 
-  
- # Game Luncher's 🎮👾
+  </details>
+ <details><summary><h3>Game Luncher's 🎮👾</h3></summary>
 
 
 
@@ -144,9 +150,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b>
+ <details><summary><h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b></h3></summary>
 
 
 
@@ -157,9 +163,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
-# Workspace 🦾⚙️ 
+<details><summary><h3>Workspace 🦾⚙️</h3></summary>
 
 
 
@@ -170,9 +176,9 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<details><summary><h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h3></summary>
 
 <!--- stats & Trophy (start) -->
 
@@ -210,9 +216,9 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
-# Game 🕹🐍
+<details><summary><h3>Game 🕹🐍</h3></summary>
 
 
 
@@ -227,9 +233,9 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
- # Here are some Parrots  🦜😂
+ <details><summary><h3>Here are some Parrots  🦜😂</h3></summary>
 
 
 
@@ -265,9 +271,9 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
+</details>
 
-
- # Random Joke 🤪😹
+ <details><summary><h3>Random Joke 🤪😹</h3></summary>
 
 
  
@@ -278,7 +284,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 </div><p  align="center">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
 
-
+</details>
 
 <p align="center""><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
