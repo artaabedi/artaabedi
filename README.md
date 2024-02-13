@@ -8,7 +8,7 @@
   src="Image/Rainbow.gif"
 />
 
-
+<details><summary><h3>Favorite</h3></summary>
 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
 
@@ -25,20 +25,21 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></div> <div align=center>
 
 
+
+  </div><p  align="center">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
+
   
-  <img
-  width="100%"
-  alt="Rainbow"
-  src="Image/Rainbow.gif"
-/>
+  
+  </details>
 
 
 
 <details><summary><h3><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b></h3></summary>
 
- 
- 
-![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)
+  
+  
+  ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)
 
 
  
