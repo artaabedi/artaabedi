@@ -12,6 +12,8 @@
 
 <details><summary><h3>A summary of work and interest 🤏🏼💣</h3></summary>
 
+
+
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
 
 
@@ -33,7 +35,7 @@
 
   
   
-  </details>
+</details>
 
 
 
@@ -41,7 +43,7 @@
 
   
   
-  ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)
 
 
  
@@ -110,7 +112,6 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 <p>
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
@@ -260,8 +261,8 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 <!--- stats & Trophy (start) -->
 
 <p align="center">
- 
-  <!--- stats (start) -->
+  
+<!--- stats (start) -->
 
 
 
