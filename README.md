@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi <img src="./Image/wave.gif" width="45" /> , I'm <img src="./Image/animated-flame-01.gif" width="16px"/>[ARTA](https://ArtaAbedi.github.io)<img src="./Image/animated-flame-01.gif" width="16px"/> </h1>
+## <h1 align="center"> Hi <img src="./Image/wave.gif" width="45" /> , I'm <img src="./Image/animated-flame-01.gif" width="16px"/>[ARTA](https://ArtaAbedi.com)<img src="./Image/animated-flame-01.gif" width="16px"/> </h1>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.github.io/)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.com/)
 
 
 
