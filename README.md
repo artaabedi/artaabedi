@@ -39,7 +39,7 @@
 
 
 
-<details><summary><h3><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b></h3></summary>
+<details><summary><h3><picture><img src="Image/about_me.gif" width = 30px align="center"></picture><b> About Me</b></h3></summary>
 
   
   
