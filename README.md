@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi <img src="./Image/wave.gif" width="45" /> , I'm <img src="./Image/animated-flame-01.gif" width="16px"/>[ARTA](https://ArtaAbedi.com)<img src="./Image/animated-flame-01.gif" width="16px"/> </h1>
+## <h1 align="center"> Hi <img src="./Image/wave.gif" width="45" /> , I'm <img src="./Image/animated-flame-01.gif" width="16px"/>[ＡＲＴＡ](https://ArtaAbedi.com)<img src="./Image/animated-flame-01.gif" width="16px"/> </h1>
 
 
 
