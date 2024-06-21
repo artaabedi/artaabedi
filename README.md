@@ -266,15 +266,19 @@ src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif
 
 
 
+<a href="https://app.daily.dev/artaabedi"><img src="https://api.daily.dev/devcards/v2/o6lQxALAE2dHP5Rtl65vT.png?type=default&r=oga" width="356" alt="Arta Abedi's Dev Card"/></a>
+
+
+
 [![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtaAbedi&layout=compact&theme=vision-friendly-dark&langs_count=5" />
-
-
-
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=artaabedi&theme=radical" />
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtaAbedi&layout=compact&theme=vision-friendly-dark&langs_count=5" />
 
 
 
@@ -291,13 +295,9 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-
-<a href="https://app.daily.dev/artaabedi"><img src="https://api.daily.dev/devcards/v2/o6lQxALAE2dHP5Rtl65vT.png?type=default&r=oga" width="356" alt="Arta Abedi's Dev Card"/></a>
-
-
-
 </div><p  align="center">
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />      <br>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />    
+  <br>
 
 
 
