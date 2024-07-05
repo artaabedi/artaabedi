@@ -56,7 +56,7 @@
 
 
 <img align="right" alt="Coding" width="500"
-src="https://github.com/artaabedi/artaabedi.github.io/blob/main/images/giphy.gif">
+src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
