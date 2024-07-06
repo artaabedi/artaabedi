@@ -157,7 +157,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 <p align="left">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pbht2yt12y811c4iyoa9m1zfa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&b">
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pbht2yt12y811c4iyoa9m1zfa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pbht2yt12y811c4iyoa9m1zfa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=true)]]
 </p>
 
 
