@@ -267,11 +267,12 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
+<img src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
+
+
+
 <a href="https://app.daily.dev/artaabedi"><img src="https://api.daily.dev/devcards/v2/o6lQxALAE2dHP5Rtl65vT.png?type=default&r=oga" width="356" alt="Arta Abedi's Dev Card"/></a>
 
-
-
-<img src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
 
 
 [![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
