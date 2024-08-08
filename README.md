@@ -376,7 +376,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
- <details><summary><h3>Random Joke 🤪😹</h3></summary>
+ <details><summary><h3><picture><img src="Image/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width = 30px align="center"></picture><b>Random Joke</b></h3></summary>
 
 
  
