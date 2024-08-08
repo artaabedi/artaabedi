@@ -267,7 +267,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<img src="https://widgetbite.com/stats/ArtaAbedi" weight="100" alt="watching_count" />
+<img src="https://widgetbite.com/stats/ArtaAbedi" weight="1000" alt="watching_count" />
 
 
 
