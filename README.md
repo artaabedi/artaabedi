@@ -192,7 +192,8 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
   
- <details><summary><h3>Game Luncher's 🎮👾</h3></summary>
+ <details><summary><h3><picture><img src="Image/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width = 30px align="center"></picture><b>Game Luncher's</b></h3></summary>
+
 
 
 
