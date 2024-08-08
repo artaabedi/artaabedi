@@ -14,7 +14,7 @@
 
 
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://artaabedi.com/)
+<img src="/Image/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 
 
