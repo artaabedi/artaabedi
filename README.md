@@ -311,7 +311,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-<details><summary><h3>Game 🕹🐍</h3></summary>
+<details><summary><h3><picture><img src="Image/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif" width = 30px align="center"></picture><b>Game</b></h3></summary>
 
 
 
