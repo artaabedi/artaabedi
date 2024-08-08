@@ -267,10 +267,6 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<img align="left" src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
-
-
-
 <a href="https://app.daily.dev/artaabedi"><img src="https://api.daily.dev/devcards/v2/o6lQxALAE2dHP5Rtl65vT.png?type=default&r=oga" width="356" alt="Arta Abedi's Dev Card"/></a>
 
 
@@ -297,6 +293,10 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=artaabedi&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_cou"/>
+
+
+
+<img align="left" src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
 
 
 
