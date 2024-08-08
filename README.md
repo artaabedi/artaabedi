@@ -226,7 +226,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<details><summary><h3>Workspace 🦾⚙️</h3></summary>
+<details><summary><h3><picture><img src="Image/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width = 30px align="center"></picture><b>WorkSpace</b></h3></summary>
 
 
 
