@@ -10,7 +10,7 @@
 
 
 
-<details><summary><h3>A summary of work and interest 🤏🏼💣</h3></summary>
+<details><summary><h3><picture><img src="Image/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width = 30px align="center"></picture><b>A Summary Of Work And Interest</b></h3></summary>
 
 
 
