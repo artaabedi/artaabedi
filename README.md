@@ -103,7 +103,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<details><summary><h3><picture><img src="Image/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width = 30px align="center"></picture><b>Social Media</b></h3></summary>
+<details><summary><h3><picture><img src="" width = 30px align="center"></picture><b>Social Media</b></h3></summary>
 
 
  
@@ -208,7 +208,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
- <details><summary><h3><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px align="center"></picture><b>Skill's</b></h3></summary>
+ <details><summary><h3><picture><img src="/Image/skill.gif" width = 30px align="center"></picture><b>Skill's</b></h3></summary>
 
 
 
@@ -259,7 +259,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<details><summary><h3><picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px align="center"></picture><b>Stats</b></h3></summary>
+<details><summary><h3><picture><img src="/Image/stats.gif" width = 30px align="center"></picture><b>Stats</b></h3></summary>
 
 <!--- stats & Trophy (start) -->
 
