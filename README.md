@@ -136,7 +136,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
- <details><summary><h3>Playlist 🎼🎶</h3></summary>
+ <details><summary><h3><picture><img src="Image/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width = 30px align="center"></picture><b>Playlist</b></h3></summary>
 
 
 
