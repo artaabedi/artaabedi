@@ -244,7 +244,9 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<details><summary><h3>View Counter 🔢👁</h3></summary>
+<details><summary><h3><picture><img src="Image/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width = 30px align="center"></picture><b>View Counter</b></h3></summary>
+
+
 
 ![Wakatime](https://wakatime.com/badge/user/018d1ed7-10c5-4198-8a83-23a6807be115.svg?style=for-the-badge&color=00B8B5)![GitHub User's stars](https://img.shields.io/github/stars/ArtaAbedi?style=for-the-badge&logo=github&color=yellow)![GitHub Porfile's Viewer](https://komarev.com/ghpvc/?username=ArtaAbedi&style=for-the-badge&logo=github&color=blueviolet)
 
