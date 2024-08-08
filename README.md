@@ -271,7 +271,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
 
 
 [![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
