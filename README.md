@@ -271,6 +271,10 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
+![Metrics](https://metrics.lecoq.io/Comment Reaction?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Fartaabedi.com%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=true&config.timezone=Asia%2FTehran)
+
+
+
 [![Arta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtaAbedi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
