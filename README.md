@@ -86,7 +86,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
  
- <details><summary><h3>Donate 🤑💸</h3></summary>
+ <details><summary><h3><picture><img src="Image/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width = 30px align="center"></picture><b>Donate Me</b></h3></summary>
 
 
 
