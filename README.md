@@ -271,34 +271,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
 
-          # Options
-          user: Comment Reaction
-          template: classic
-          base: ""
-          config_timezone: Asia/Tehran
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_pwa: yes
-          plugin_pagespeed_url: https://artaabedi.com/
 
 
 
