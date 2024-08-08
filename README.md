@@ -103,7 +103,8 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
- <details><summary><h3><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3></summary>
+<details><summary><h3><picture><img src="Image/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width = 30px align="center"></picture><b>Social Media</b></h3></summary>
+
 
 
  
