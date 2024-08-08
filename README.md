@@ -296,7 +296,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
-<img align="center" src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
+<img src="https://widgetbite.com/stats/ArtaAbedi" alt="watching_count" />
 
 
 
