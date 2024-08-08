@@ -153,7 +153,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
   
- <details><summary><h3>Now playing 🎧🎵</h3></summary>
+ <details><summary><h3><picture><img src="Image/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width = 30px align="center"></picture><b>Now Play</b></h3></summary>
 
 
 
