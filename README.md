@@ -173,7 +173,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
  
-<details><summary><h3>Recently Played ▶️⏸️</h3></summary>
+<details><summary><h3><picture><img src="Image/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width = 30px align="center"></picture><b>Recently Played</b></h3></summary>
 
 
 
