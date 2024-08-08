@@ -334,7 +334,7 @@ src="https://github-readme-stats.vercel.app/api?username=artaabedi&theme=highcon
 
 
 
- <details><summary><h3>Here are some Parrots  🦜😂</h3></summary>
+<details><summary><h3><picture><img src="Image/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width = 30px align="center"></picture><b>Parrots Dance</b></h3></summary>
 
 
 
