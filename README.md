@@ -43,7 +43,7 @@
 
   
   
-![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)](https://artaabedi.com/Assets/)
+![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![here↗️](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)](https://artaabedi.com/Assets%2FArta%20Abedi%20-%20CV.pdf)
 
 
  
