@@ -158,7 +158,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 <p>
   
-[![spotify-github-profile](https://nowplayi.ng/miniplayer.php?refreshToken=AQBSkpXV175-jATmjOKhjf76DAUBzTxk_I88TtF7LeWrYjtxs7VXkKG5wp-AaXgtkSFuAMpRrGZJIEx7fthxYwUT2NXQhKtK6ZX2Q1O1a-cJr5Yu--yrjXKszMQz818jRfY&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=true&hideOnPauseOrEmpty=true)](https://nowplayi.ng/)
+[![spotify-github-profile](https://nowplayi.ng/miniplayer.php?refreshToken=AQBSkpXV175-jATmjOKhjf76DAUBzTxk_I88TtF7LeWrYjtxs7VXkKG5wp-AaXgtkSFuAMpRrGZJIEx7fthxYwUT2NXQhKtK6ZX2Q1O1a-cJr5Yu--yrjXKszMQz818jRfY&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=true&hideOnPauseOrEmpty=true)]
 
 </p>
 
