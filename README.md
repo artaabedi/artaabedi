@@ -294,7 +294,7 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+<img src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
 
 
 
