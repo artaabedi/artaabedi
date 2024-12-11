@@ -294,7 +294,8 @@ src="https://github.com/artaabedi/artaabedi/blob/main/Image/giphy.gif">
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=artaabedi&theme=github-green-purple&short_numbers=true" alt="GitHub Streak" /></a>
+<img  align="center"  src="https://streak-stats.demolab.com/?user=artaabedi&theme=github-green-purple" />
+
 
 
 
